@@ -2,8 +2,8 @@
 <div align="center">
     <br />
 
-![Galahad Logo](assets/galahad-logo-transparent-for-dark.png#gh-dark-mode-only)
-![Galahad Logo](assets/galahad-logo-transparent-for-light.png#gh-light-mode-only)
+![Galahad Logo](profile/assets/galahad-logo-transparent-for-dark.png#gh-dark-mode-only)
+![Galahad Logo](profile/assets/galahad-logo-transparent-for-light.png#gh-light-mode-only)
 ### Scaling New Heights in AI-Investments - Galahad, Your Path to Financial Summit.
 
 #### Core
